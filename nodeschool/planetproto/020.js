@@ -63,7 +63,6 @@ var robby = {};
 
 // -> Make machine the prototype of robot
 //The '__proto__' property is deprecated, use 'prototype' instead.
-// robot.prototype = machine;
 robot.__proto__ = machine;
 
 // robot is now linked to machine
@@ -72,7 +71,6 @@ robot.__proto__ = machine;
 
 // -> Make robot the prototype of robby
 //The '__proto__' property is deprecated, use 'prototype' instead.
-// robby.prototype = robot;
 robby.__proto__ = robot;
 
 // robby is now linked to robot
