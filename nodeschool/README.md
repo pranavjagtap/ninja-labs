@@ -1,6 +1,5 @@
-Topic:
-  Nodeschool workshops.
+# Nodeschool workshops.
 
-Reference :
-  http://nodeschool.io/
-  
+### Reference
+- [nodeschool](http://nodeschool.io/)
+
