@@ -1,1 +1,1 @@
-# ninjslabs
+# ninjalabs
